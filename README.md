@@ -1,9 +1,5 @@
 ![](https://img.shields.io/badge/Foundry-v10-informational)
-
-<!--- Downloads @ Latest Badge -->
-<!--- replace <user>/<repo> with your username/repository -->
-
-- ![Latest Release Download Count](https://img.shields.io/github/downloads/FloRad/foundry-timey-wimey/latest/module.zip)
+![Latest Release Download Count](https://img.shields.io/github/downloads/FloRad/foundry-timey-wimey/latest/module.zip)
 
 # Timey-Wimey Detector
 
