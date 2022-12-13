@@ -8,3 +8,5 @@
 # Timey-Wimey Detector
 
 Plays a ding sound whenever the world time gets updated.
+
+This is a joke module, please don't take it too seriously.
